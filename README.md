@@ -1,7 +1,7 @@
 
 ##  Hola! Mi Nombre es 
 
-![](1.jpeg)
+![](profile.jpeg)
 
 
 Motivated, teamwork-oriented, and responsible software developer with experience in desktop, mobile and web apps development. With an intermediate understanding of English.  
