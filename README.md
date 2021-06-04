@@ -1,7 +1,7 @@
 
 ##  Hola! Mi Nombre es 
 
-![](https://repository-images.githubusercontent.com/279038181/2fd7c200-c3fe-11ea-88fb-9168a2cc001d)
+![](1.jpeg)
 
 
 Motivated, teamwork-oriented, and responsible software developer with experience in desktop, mobile and web apps development. With an intermediate understanding of English.  
